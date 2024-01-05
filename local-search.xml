@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>TEM扫描电镜</title>
+    <link href="/2024/01/05/TEM/"/>
+    <url>/2024/01/05/TEM/</url>
+    
+    <content type="html"><![CDATA[<p><strong><font color="009688"> 傍晚时分，你坐在屋檐下，看着天慢慢地黑下去，心里寂寞而凄凉，感到自己的生命被剥夺了。当时我是个年轻人，但我害怕这样生活下去，衰老下去。在我看来，这是比死亡更可怕的事。——–王小波</strong></font><font color="#C0C4CC"></p><hr><h1 id="一-透射电镜原理"><a href="#一-透射电镜原理" class="headerlink" title="一 透射电镜原理"></a><font color="#FFBE7A">一 透射电镜原理</h1><h2 id="1-透射电镜工作原理"><a href="#1-透射电镜工作原理" class="headerlink" title="1 透射电镜工作原理"></a><font color="#FFBE7A">1 透射电镜工作原理</h2><p><font color="#81D8D0">  透射电镜的工作原理如下图所示：透射电镜和光学显微镜的各透镜及光路图基本一致，都是光源经过聚光镜会聚之后照到样品，光束透过样品后进入物镜，由物镜会聚成像，之后物镜所成的一次放大像在光镜中再由物镜二次放大后进入观察者的眼睛，而在电镜中则是由中间镜和投影镜再进行两次接力放大后最终在荧光屏上形成投影供观察者观察。电镜物镜成像光路图也和光学凸透镜放大光路图一致。<br><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704443230372.png" alt="透射电镜工作原理"></p><p><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704443176282.png" alt="![透射电镜实物图](https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/小书匠/1704371952356.png)"><br>真的感觉很像sem的电镜</p><h2 id="2-对比SEM"><a href="#2-对比SEM" class="headerlink" title="2 对比SEM"></a><font color="#FFBE7A">2 对比SEM</h2><p><font color="#81D8D0"> TEM:电子的穿透能力很弱，透射电镜往往使用几百千伏的高能量电子束，但依然需要把样品磨制或者离子减薄或者超薄切片到微纳米量级厚度，放在直径3mm的铜网上观察。要不电子束也打不透，这是基本要求。</p><p>SEM:几乎不用制样，直接观察。大多数非导体需要制作导电膜，绝大多数几分钟的搞定，含水的生物样品需要固定脱水干燥。二者对样品共同要求:固体，尽量干燥，尽量没有油污染，外形尺寸符合样品室大小要求。</p><p>扫描电镜(SEM)可以实现的大视场(FOV)远大于透射电镜(TEM)，用户可以只对样品的一小部分进行成像。同样，扫描电镜(SEM)系统的景深也远高于透射电镜(TEM)系统。</p><p>因为放大的倍数不同，所以如果你做的产物粒径很小纳米级的就要考虑照TEM可以观察到微观结构。<br><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704443407305.png" alt="SEM结果"><br><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704443427071.png" alt="TEM结果"></p><h1 id="二-对比SEM，如何进行选择？"><a href="#二-对比SEM，如何进行选择？" class="headerlink" title="二 对比SEM，如何进行选择？"></a><font color="#FFBE7A">二 对比SEM，如何进行选择？</font></h1><p>当你想要从样品内部结构获得信息时，透射电镜(TEM)是最佳的选择，而当需要样品表面信息时，扫描电镜(SEM)是首选。</p><p>当然，主要决定因素是两个系统之间的巨大价格差异，以及易用性。 透射电镜(TEM)可以为用户提供更多的分辨能力和多功能性，但是它们比扫描电镜(SEM)更昂贵且体型较大，需要更多操作技巧和复杂的前期制样准备才能获得满意的结果。<br><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704443607946.png" alt="俩者对比"></p><h1 id="三-如何分析图片"><a href="#三-如何分析图片" class="headerlink" title="三 如何分析图片"></a><font color="#FFBE7A">三 如何分析图片</h1><font color="#81D8D0">  通常我们结合样品SEM&TEM图对其进行描述时，需要给出样品的基本形貌，<font color="#F56C6C">如：纤维状、针状、盘形、片状、球形等;</font>其次，需要根据样品的基本形貌给出对应的参数，<font color="#F56C6C">如：纤维的长度、球形结构的直径、盘状结构的厚度等。</font>此外，它们还可以与元素分析、SAED相结合，进一步分析样品的元素分布、晶体组成。<font color="#F56C6C">在低倍 TEM 下，观察大小和形貌，结合 SEM 可以初步推断材料外形。需要注意的是：TEM 图像是某一个方向的投影图，所以电子入射方向不同，呈现的外形可能不同。</font><p>这里举一个例子<font color="#F56C6C"><br>Electrochemistry中“Improvement in the Electrochemical Properties of Intercalated Metal-Organic Framework Electrode Materials by Controlling Crystal Growth</font><br>这篇文章作为例子</p><p><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704372526916.png" alt="a是在水中制备的样品        b是在甲醇中制备的样品"><br>详解：文章对于SEM图的描述，首先着重在对于样品形貌的描述。a图中从水溶液体系制备的样品形成了盘状晶体，b图中从甲醇体系中制备的样品形成了针状晶体;其次，是对于样品尺寸的描述，a图中形成的盘状晶体厚约5–10 µm ，直径为100 µm，b图中形成的针状晶体长10μm。</p><h1 id="三-总结"><a href="#三-总结" class="headerlink" title="三 总结"></a><font color="#FFBE7A">三 总结</font></h1><p><font color="#81D8D0">  总的来说，SEM就是简单的对晶体的外形什么的进行一个描述，一般来说都放在最前面，因为这是最简单也是最基本的表征方法</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>表征技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>表征,基础知识 - 表征 - 基础知识</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>SEM扫描电镜</title>
+    <link href="/2024/01/04/SEM/"/>
+    <url>/2024/01/04/SEM/</url>
+    
+    <content type="html"><![CDATA[<p><strong><font color="009688"> 傍晚时分，你坐在屋檐下，看着天慢慢地黑下去，心里寂寞而凄凉，感到自己的生命被剥夺了。当时我是个年轻人，但我害怕这样生活下去，衰老下去。在我看来，这是比死亡更可怕的事。——–王小波</strong></font><font color="#C0C4CC"></p><hr><h1 id="一-扫描电镜原理"><a href="#一-扫描电镜原理" class="headerlink" title="一 扫描电镜原理"></a><font color="#FFBE7A">一 扫描电镜原理</h1><h2 id="一-扫描电镜工作原理"><a href="#一-扫描电镜工作原理" class="headerlink" title="一 扫描电镜工作原理"></a><font color="#FFBE7A">一 扫描电镜工作原理</h2><p><font color="#81D8D0">  扫描电镜的工作原理如下图所示：首先，顶部的电子光源（通常被称为电子枪）发射电子。这些电子在加速电压的作用下（通常为200V~30KV），经过两三个电磁透镜，被聚成一束极细的电子束。该入射电子束位于物镜上方扫描线圈的驱动下，在试样表面的微小区域进行有序的光栅扫描。</p><p>  能电子束射入试样后，在其表面激发出二次电子、背散射电子、X射线和俄歇电子等多种信息。这些信息由相应的探测器检测，并随后经过放大处理，传送到显示屏上来调制显示屏的亮度。扫描电镜采用逐行扫描、逐点成像的方法，将试样表面的不同信息特征按顺序成比例地转换成视频信号，最终在荧光屏上观察到与样品表面相对应的经放大后的显微形貌图像。这种操作方式使得我们能够深入观察微小区域，获得高分辨率的表面形貌图像，从而拓展我们对样品微观结构的认知。<br><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704371952356.png" alt="enter description here"><br>2、扫描电子束与试样的相互作用<br>如图2所示，当一束聚焦的高能电子束沿特定方向射入试样内部时，由于受到试样中晶格势场和原子库伦场的影响，电子束的入射方向会发生变化，这一现象称为散射。电子的散射过程是一种随机过程，每次散射都会引起电子前进方向的改变。在非弹性散射中，电子每次散射都不仅改变前进方向，还会失去一部分能量，并伴随着各种其他信息的产生，如热、俄歇电子、X射线、可见光、二次电子、背散射电子等。</p><p>值得注意的是，电子束与样品相互作用的体积大约为数个微米深，其形状类似梨子，而且不同信号的作用深度也存在差异。这种深度和形状的影响使得扫描电镜可以提供关于试样内部微观结构和组成的详细信息，进而为材料科学和其他领域的研究提供了重要工具和数据。</p><p>扫描电子显微镜主要通过探测二次电子和背散射电子来分析样品的形貌信息和成分信息，也可以连接能谱仪通过采集X射线对样品进行成分分析。</p><p>二次电子是被入射电子束轰击出来并离开样品表面的核外电子，主要来自样品表面1～10nm深度范围，能量较低(0~50eV，平均30eV)，所以二次电子像能很好地显示出试样表面的微观形貌。由于入射电子仅经过几纳米的路径，还没有被多次反射和明显扩散，因此在入射电子照射的作用区内产生的二次电子区域与入射束的束斑直径差别不大，所以在同一台电镜中二次电子像分辨率最高。</p><p>背散射电子是被固体样品中的原子反弹回来的一部分电子（能量大于50eV，小于入射电子能量E0，大部分约0.7~0.9E0)。在一定的加速电压下，由于背散射电子产额随试样原子序数的增加而增加。所以，背散射电子信号不仅可以分析试样形貌特征，而且可以显示试样化学组分特征，在一定的范围内粗略进行定性分析试样表面的化学组分分布情况。</p><h1 id="二-扫描电镜的主要功能"><a href="#二-扫描电镜的主要功能" class="headerlink" title="二 扫描电镜的主要功能"></a>二 扫描电镜的主要功能</h1><p>扫描电镜是一种多功能的仪器，具有很多优越的性能，可以进行如下基本分析：<br><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704372180161.png" alt="enter description here"><br><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704372190730.png" alt="enter description here"></p><h1 id="三-如何分析图片"><a href="#三-如何分析图片" class="headerlink" title="三 如何分析图片"></a><font color="#FFBE7A">三 如何分析图片</h1><font color="#81D8D0">  通常我们结合样品SEM&TEM图对其进行描述时，需要给出样品的基本形貌，<font color="#F56C6C">如：纤维状、针状、盘形、片状、球形等;</font>其次，需要根据样品的基本形貌给出对应的参数，<font color="#F56C6C">如：纤维的长度、球形结构的直径、盘状结构的厚度等。</font>此外，它们还可以与元素分析、SAED相结合，进一步分析样品的元素分布、晶体组成。这里举一个例子<font color="#F56C6C">Electrochemistry中“Improvement in the Electrochemical Properties of Intercalated Metal-Organic Framework Electrode Materials by Controlling Crystal Growth</font>这篇文章作为例子<p><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704372526916.png" alt="a是在水中制备的样品        b是在甲醇中制备的样品"><br>详解：文章对于SEM图的描述，首先着重在对于样品形貌的描述。a图中从水溶液体系制备的样品形成了盘状晶体，b图中从甲醇体系中制备的样品形成了针状晶体;其次，是对于样品尺寸的描述，a图中形成的盘状晶体厚约5–10 µm ，直径为100 µm，b图中形成的针状晶体长10μm。</p><h1 id="三-总结"><a href="#三-总结" class="headerlink" title="三 总结"></a><font color="#FFBE7A">三 总结</font></h1><p><font color="#81D8D0">  总的来说，SEM就是简单的对晶体的外形什么的进行一个描述，一般来说都放在最前面，因为这是最简单也是最基本的表征方法</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>表征技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>表征</tag>
+      
+      <tag>基础知识</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
