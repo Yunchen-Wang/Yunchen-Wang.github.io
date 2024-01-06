@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>Ru团簇的D带上移效应会加快在碱性环境下的HER过程</title>
+    <link href="/2024/01/05/Ru%E5%9B%A2%E7%B0%87%E7%9A%84D%E5%B8%A6%E4%B8%8A%E7%A7%BB%E6%95%88%E5%BA%94%E4%BC%9A%E5%8A%A0%E5%BF%AB%E5%9C%A8%E7%A2%B1%E6%80%A7%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84HER%E8%BF%87%E7%A8%8B/"/>
+    <url>/2024/01/05/Ru%E5%9B%A2%E7%B0%87%E7%9A%84D%E5%B8%A6%E4%B8%8A%E7%A7%BB%E6%95%88%E5%BA%94%E4%BC%9A%E5%8A%A0%E5%BF%AB%E5%9C%A8%E7%A2%B1%E6%80%A7%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84HER%E8%BF%87%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<p><strong><font color="009688"> 傍晚时分，你坐在屋檐下，看着天慢慢地黑下去，心里寂寞而凄凉，感到自己的生命被剥夺了。当时我是个年轻人，但我害怕这样生活下去，衰老下去。在我看来，这是比死亡更可怕的事。——–王小波</strong></font><font color="#C0C4CC"></p><hr><h1 id="一-文章材料概述"><a href="#一-文章材料概述" class="headerlink" title="一 文章材料概述"></a><font color="#FFBE7A">一 文章材料概述</h1><font color="#81D8D0"> 电解水被广泛认为是一种绿色、高效的制氢技术。通常情况下，电解水可以在碱性或者酸性介质中进行。虽然质子交换膜驱动的酸性电解水已经显示出了一定的优势，但是质子交换膜昂贵的价格以及酸性下阳极氧析出反应缓慢的动力学，极大地限制了酸性电解水的广泛使用。如果将酸性电解质换成碱性，上述问题可以得到缓解。然而，这也带来了一个新的问题，即在碱性介质中，阴极析氢反应(HER)的动力学明显受阻。即使采用商业铂碳催化剂，碱性环境中的HER动力学也比酸性环境中低2个数量级。因此，为了实现快速的碱性电解水，开发高效的HER电催化剂是十分有必要的。这里作者也说了，碱性环境下虽然反应动力比较差，但是其碱性环境或许会带来比较长时间运行的金属环境，可以让催化剂的使用寿命更长一点。<h1 id="二-文章要点"><a href="#二-文章要点" class="headerlink" title="二 文章要点"></a><font color="#FFBE7A">二 文章要点</h1><h2 id="2-1-Ru-NPs和Ru-SAs"><a href="#2-1-Ru-NPs和Ru-SAs" class="headerlink" title="2.1 Ru NPs和Ru SAs"></a><font color="#FFBE7A">2.1 Ru NPs和Ru SAs</h2><p><font color="#81D8D0"> 因为这nps在Volmer step比较差，速度很慢，所以不行，而sas合成非常的复杂，需要精准调控，所以采用亚纳米的结构非常的合适</p><h2 id="2-2-Ru的压纳米团簇会导致d带偏移"><a href="#2-2-Ru的压纳米团簇会导致d带偏移" class="headerlink" title="2.2 Ru的压纳米团簇会导致d带偏移"></a><font color="#FFBE7A">2.2 Ru的压纳米团簇会导致d带偏移</h2><p><font color="#81D8D0"> 主要是因为低配位的Ru占比逐渐减少，并且团簇的直径变大，并且，最小的Ru19簇中低配位Ru原子所占比例最大，其d波段中心最接近Femi能级</p><p><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704528638724.png" alt="三者对比"></p><p>并且根据下面的图可以看到，Ru团簇对H2O和H*中间体的吸附强度也随着d波段中心的下降呈近似线性的下降趋势，还记得之前说的，Ru主要的不好用的地方就在于吸附力比较差，现在Ru19在这几个中吸附力最强，H2O在Ru19团簇上的强吸附强度可以使被吸附的H2O的H-O键伸长，促进H2O的解离，显著加速碱性HER的缓慢Volmer步<br><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704528673877.png"></p><h2 id="2-3不同直径的Ru团簇也会有不同的促进效果"><a href="#2-3不同直径的Ru团簇也会有不同的促进效果" class="headerlink" title="2.3不同直径的Ru团簇也会有不同的促进效果"></a><font color="#FFBE7A">2.3不同直径的Ru团簇也会有不同的促进效果</h2><p><font color="#81D8D0"> 作者在三个不同的温度下制备Ru团簇，这会让Ru团簇具有不同的直径，并且文章中描述了，这个团簇的制备过程和底下的碳有关。</p><p><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704528968345.png" alt="原文内容"></p><p>对这个材料进行UPS计算之后可以得到这个材料的Ф，值得注意的是，随着Ru纳米晶体直径的增加，Ф值也以近似线性的方式增加，这表明Ru的Ф值可以通过颗粒直径的变化有效地调节。Ф值越小，费米能级(EF)越高，</p><p><img src="https://raw.githubusercontent.com/Yunchen-Wang/pbed/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1704529058034.png" alt="变化图"></p><p>随着粒径从1.0增加到3.1 nm, Ru 3p3&#x2F;2的结合能从462.8 eV移动到463.3 eV，说明Ru-1.0具有较高的电子密度，有利于d波段中心的上移。（有可能是因为他体积小）<br>这不就和之前的费米能级的变化双向奔赴了？</p><h1 id="三-结论"><a href="#三-结论" class="headerlink" title="三 结论"></a><font color="#FFBE7A">三 结论</h1><p><font color="#81D8D0"> 总之，我们已经证明了亚纳米Ru团簇具有电子结构和碱性HER性能，与单个Ru原子和更大的Ru纳米颗粒不同。在100mv的过电位下，Ru簇表现出超高的TOF值43.3 s−1，明显优于商业Pt&#x2F;C。为了研究这种优异性能的根本原因，我们建立了Ru的直径与d能带中心能级之间的联系，发现Ru的d能带中心随着直径的增加呈近似线性的上升趋势。因此，d波段中心上移的Ru簇比SAs Ru和更大的Ru纳米颗粒具有更强的水离解能力，从而具有更高的HER活性。令人印象深刻的是，Ru簇可以大规模合成，在较小的过电位196mV下获得1000 mA cm−2的大电流密度，并长期稳定，这表明Ru簇在实用的HER中有希望。钌团簇优异的电催化性能和独特的物理化学特性为开发亚纳米级金属尺寸的鲁棒性电催化剂打开了新的大门。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>论文阅读</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Ru</tag>
+      
+      <tag>论文</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>晶体非晶界面耦合优化CoSe2/CoP的d带中心促进电催化析氢</title>
     <link href="/2024/01/05/%E6%99%B6%E4%BD%93%E9%9D%9E%E6%99%B6%E7%95%8C%E9%9D%A2%E8%80%A6%E5%90%88%E4%BC%98%E5%8C%96CoSe2:CoP%E7%9A%84d%E5%B8%A6%E4%B8%AD%E5%BF%83%E4%BF%83%E8%BF%9B%E7%94%B5%E5%82%AC%E5%8C%96%E6%9E%90%E6%B0%A2/"/>
     <url>/2024/01/05/%E6%99%B6%E4%BD%93%E9%9D%9E%E6%99%B6%E7%95%8C%E9%9D%A2%E8%80%A6%E5%90%88%E4%BC%98%E5%8C%96CoSe2:CoP%E7%9A%84d%E5%B8%A6%E4%B8%AD%E5%BF%83%E4%BF%83%E8%BF%9B%E7%94%B5%E5%82%AC%E5%8C%96%E6%9E%90%E6%B0%A2/</url>
@@ -20,9 +47,9 @@
     
     <tags>
       
-      <tag>Co</tag>
-      
       <tag>论文</tag>
+      
+      <tag>Co</tag>
       
     </tags>
     
